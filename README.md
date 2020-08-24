@@ -1,7 +1,7 @@
 # LSTM-for-TFLM
 Patch which includes all changes necessary in order for LSTM to compile, not run, on TFLM.
 
-Has changes in inclusion and header files to include registration of function as well as changes within LSTM itself to achieve compilation on HiFi 4 DSPs
+Has changes in header files to include registration of function as well as changes within LSTM and other files in TFLM to achieve compilation on HiFi 4 DSPs
 # To apply patch
 $ git clone https://github.com/tensorflow/tensorflow.git
 
