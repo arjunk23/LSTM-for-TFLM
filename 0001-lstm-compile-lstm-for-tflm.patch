@@ -1,5 +1,5 @@
 From 0522886a12970952c0206068f3532d70ce398207 Mon Sep 17 00:00:00 2001
-From: Niranjan Yadla <nyadla@cadence.com>
+From: Arjun Kumar <arjunk@cadence.com>
 Date: Fri, 7 Aug 2020 08:10:29 -0700
 Subject: [PATCH] lstm:compile lstm for tflm
 
