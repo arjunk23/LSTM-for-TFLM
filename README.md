@@ -10,6 +10,7 @@ $ cd tensorflow
 $ git checkout 285b5fa15405c5e2c084080f52a1818be8648079
 
 $ git apply 0001-lstm-compile-lstm-for-tflm.patch
+
 $ make -f tensorflow/lite/micro/tools/make/Makefile test_micro_speech_test
 
 
